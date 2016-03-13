@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[24-6]]></title>
+        <description><![CDATA[24-6]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 13 Mar 2016 23:05:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Podcast you can believe in]]></title>
+            <description><![CDATA[<article><h1>Podcast you can believe in</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1feae51f1772396b38f35817db655d85f74b71d1.jpg"></article>]]></description>
+            <link>undefinedpodcast-you-can-believe-in/index.html</link>
+            <guid isPermaLink="false">85353faf-882e-4bdd-b67a-5cb7711955de</guid>
+            <pubDate>Sun, 13 Mar 2016 23:05:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
